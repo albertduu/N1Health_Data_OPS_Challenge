@@ -6,10 +6,7 @@
 N1_Data_Ops_Submission/
 |-- SQLiteReader.py
 |-- SQLiteQueryRunner.py
-|-- n1_data_ops_challenge.db
 |-- read_results.txt
-|-- part2_project_manager_email.txt
-|-- N1_Data_Ops_Presentation.pptx
 `-- queries/
     |-- 01_build_std_member_info.sql
     |-- 02_member_counts.sql
