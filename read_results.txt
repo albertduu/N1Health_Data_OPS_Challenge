@@ -1,0 +1,37 @@
+
+N1 Data Ops Challenge - Part 1 Results
+=============================================
+std_member_info rows: 39,252
+Distinct member IDs:  39,252
+
+1. Distinct members eligible in April 2025: 32,576
+2. Members included more than once: 8,130
+3. Member breakdown by payer:
+   Mdcd: 24,663
+   Madv: 14,589
+4. Members in ZIP codes with Food access score < 2: 3,038
+5. Average Social isolation score: 3.0703
+   Members without a matching ZIP score: 0
+6. Highest Algorex SDOH composite score: 8.77 (ZIP(s): 95950)
+   15484118 - Sheila Abbott (95950)
+   15377751 - Jesse Arciniega (95950)
+   15476293 - Carmen Cain (95950)
+   15462579 - Tina Davis (95950)
+   15394329 - Mabel Dickens (95950)
+   15516212 - Leonard Dickinson (95950)
+   15456560 - Thomas Falcon (95950)
+   15482255 - Jessica Hallock (95950)
+   15389759 - Denise Hawthorne (95950)
+   15447050 - Ruby Haza (95950)
+   15469273 - Yvonne Hoehn (95950)
+   15495072 - Eric Howard (95950)
+   15532243 - William Munoz (95950)
+   15499581 - Alexandra Newman (95950)
+   15459547 - Kenneth Prather (95950)
+   15484216 - Antonio Riley (95950)
+   15359217 - Jessie Rowe (95950)
+   15456488 - Samuel Stuber (95950)
+   15493624 - Jerry Vandermeer (95950)
+
+ETL completed successfully.
+Created table: std_member_info
