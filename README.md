@@ -57,16 +57,6 @@ python .\SQLiteReader.py "C:\path\to\n1_data_ops_challenge.db"
 python .\SQLiteReader.py "C:\path\to\database.db" "C:\path\to\queries"
 ```
 
-## Challenge deliverables
-
-- Part 1: `SQLiteReader.py`, `SQLiteQueryRunner.py`, and `queries/`
-- Part 2: `part2_project_manager_email.txt`
-- Part 3: `N1_Data_Ops_Presentation.pptx`
-
-The challenge also asks for the script to be placed in GitHub or another
-repository for review. Repository publication is a final submission step and
-is not performed by the local script.
-
 ## Assumptions
 
 - "This year" refers to calendar year 2025.
